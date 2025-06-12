@@ -40,4 +40,3 @@ O sistema possui um total de **16 telas**, organizadas em diferentes áreas:
 ## 🎓 Sobre o Projeto
 
 Este sistema foi desenvolvido como trabalho acadêmico em grupo, com a divisão de responsabilidades entre os membros. Cada integrante foi responsável por um conjunto de telas, compondo juntos um sistema funcional de caronas. O objetivo é simular uma aplicação real com diversas funcionalidades integradas e uma interface amigável.
-@
